@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vivek-io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/vivek-io/static/js/main.f06c2fd7.chunk.js",
+    "main.js.map": "/vivek-io/static/js/main.f06c2fd7.chunk.js.map",
+    "runtime-main.js": "/vivek-io/static/js/runtime-main.a2888d42.js",
+    "runtime-main.js.map": "/vivek-io/static/js/runtime-main.a2888d42.js.map",
+    "static/js/2.e3d9c8ad.chunk.js": "/vivek-io/static/js/2.e3d9c8ad.chunk.js",
+    "static/js/2.e3d9c8ad.chunk.js.map": "/vivek-io/static/js/2.e3d9c8ad.chunk.js.map",
+    "index.html": "/vivek-io/index.html",
+    "precache-manifest.59f61d0f7662e3694d9098ade71a3646.js": "/vivek-io/precache-manifest.59f61d0f7662e3694d9098ade71a3646.js",
+    "service-worker.js": "/vivek-io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/vivek-io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e3d9c8ad.chunk.js.LICENSE.txt": "/vivek-io/static/js/2.e3d9c8ad.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vivek-io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2888d42.js",
+    "static/js/2.e3d9c8ad.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f06c2fd7.chunk.js"
+  ]
+}
